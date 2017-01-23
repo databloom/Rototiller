@@ -2,7 +2,7 @@
 
 #hint: make this a usb drive with lots of space to avoid swamping your dev workstation:
 
-filerepo="/media/bloomm2/Tardis/filerepo"
+filerepo="/filerepo"
 
 
 # change --limit-rate=50k to a bigger or smaller value if you aren't on home link
